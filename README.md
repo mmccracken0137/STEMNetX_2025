@@ -9,5 +9,6 @@ The schedule for the in-person camp is:
  - Day 2, 9:30-12:30: Types, lists, dictionaries, file I/O, data visualization
  - Day 3, 9:30-12:30: Monte Carlo techniques, fitting
  - Day 4, 9:30-12:30: Text manipulation, data reduction with `Pandas`, project assignments
+ - Day 5, 9:30-12:30: Final presentations, wrap session
  
 There will typically be two notebook files for each of days 1-4.
